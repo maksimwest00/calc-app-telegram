@@ -1,0 +1,20 @@
+.mainCalc {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.sliderLabel {
+    font-weight: 700;
+}
+
+
+.calcbody {
+    display: flex;
+    flex-direction: column;
+}
+
+.viewGramms {
+    display: flex;
+    flex-direction: row;
+}
