@@ -14,5 +14,5 @@ export default defineConfig({
       '@entities': '/src/entities',
       '@shared': '/src/shared',
     },
-  },
+  }
 })
