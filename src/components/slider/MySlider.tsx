@@ -92,7 +92,7 @@ export const MySlider = ({callBack}: MySliderProps) => {
             aria-label="Custom marks"
             defaultValue={50}
             getAriaValueText={valuetext}
-            step={10}
+            step={1}
             marks={marks}
             valueLabelDisplay="auto"
           />
